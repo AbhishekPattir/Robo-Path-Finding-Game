@@ -49,3 +49,12 @@ The player places a robot (start) and a flag (goal), draws walls to create obsta
 ```bash
 git clone https://github.com/yourusername/robo-path-finding-game.git
 cd robo-path-finding-game
+```
+2.Install required dependencies:
+```bash
+pip install pillow
+```
+3.Run the application:
+```bash
+python main.py
+```
