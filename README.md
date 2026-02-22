@@ -60,7 +60,7 @@ python main.py
 ```
  How to Play
 
-🖱Left Click → Place Robot (Start) and Flag (Goal)
+ Left Click → Place Robot (Start) and Flag (Goal)
 
  Right Click & Drag → Draw or Remove Walls
 
@@ -106,10 +106,12 @@ Current level
 Higher difficulty + shorter path = More points
 
  Project Structure
+ ```bash
 robo-path-finding-game/
 │
 ├── main.py
 ├── README.md
+ ```
 Educational Purpose
 
 This project is ideal for:
